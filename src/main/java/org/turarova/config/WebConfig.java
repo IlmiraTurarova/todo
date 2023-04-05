@@ -61,4 +61,5 @@ public class WebConfig implements WebMvcConfigurer {
         registry.addResourceHandler("/style/**").addResourceLocations("/style/");
         registry.addResourceHandler("/script/**").addResourceLocations("/script/");
     }
+
 }

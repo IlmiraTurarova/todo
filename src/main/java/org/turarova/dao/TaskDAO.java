@@ -53,4 +53,5 @@ public class TaskDAO {
     private Session getSession() {
         return sessionFactory.getCurrentSession();
     }
+
 }

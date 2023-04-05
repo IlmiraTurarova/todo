@@ -51,4 +51,5 @@ public class AppConfig {
         transactionManager.setEntityManagerFactory(factory);
         return transactionManager;
     }
+
 }
