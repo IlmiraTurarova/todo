@@ -1,0 +1,19 @@
+td, th {
+    font-size: large;
+    border: solid 2px;
+    color: black;
+    margin: 10px;
+    padding: 7px;
+}
+
+.active_page {
+    color: crimson;
+}
+
+.button_page {
+    color: aliceblue;
+    border: solid 2px black;
+    margin: 5px;
+    padding: 20px;
+    font-size: large;
+}
