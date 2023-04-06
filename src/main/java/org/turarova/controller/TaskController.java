@@ -67,4 +67,5 @@ public class TaskController {
         taskService.delete(id);
         return tasks(model, 1, 10);
     }
+
 }

@@ -9,4 +9,5 @@ import org.turarova.entity.Status;
 public class TaskInfo {
     private String description;
     private Status status;
+
 }
